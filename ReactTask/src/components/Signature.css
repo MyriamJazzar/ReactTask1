@@ -1,0 +1,16 @@
+.Name{
+  gap: 20px;
+  color: gray;
+  font-size: 10px;
+}
+
+.Post{
+  gap: 20px;
+  color: gray;
+  font-size: 10px;
+}
+.cover3{
+  width: 10%;
+  height: 10%;
+  object-fit: cover;
+}
